@@ -2,9 +2,11 @@
 <head>
     <title>Debrecen Resources</title>
     <style>
-        .small { width:50%; height:50% }
-        .smaller { width:30%; height:30% }
         .github { float:right; margin-right:10px }
+        .tile { display:inline-block; width:40ex; vertical-align:top; margin-right:2em }
+        .tile h3 { margin-bottom:0.5em }
+        .tile img { width:100% }
+        .large { width:45ex }
     </style>
 </head>
 <body>
@@ -20,18 +22,36 @@
     <p><a href="gallery">Debrecen Photography Gallery</a></p>
     <p><a href="dead.txt">Obituaries</a></p>
 
-    <h3>Atlas of The Known World</h3>
-    <a href="http://tinyurl.com/debratl">
-        <img class="small" src="debrecen_atlas.png">
-    </a><br>
-    <a href="debrecen_atlas.xcf">Source (GIMP XCF)</a> |
-    <a href="debrecen_atlas_nw.png">NW Region</a> |
-    <a href="debrecen_atlas_se.png">SE Region</a>
+    <div class="tile large">
+        <h3>Atlas of The Known World</h3>
+        <a href="http://tinyurl.com/debratl">
+            <img src="debrecen_atlas.png">
+        </a><br>
+        <div class="foot">
+            <a href="debrecen_atlas.xcf">Source (GIMP XCF)</a> |
+            <a href="debrecen_atlas_nw.png">NW Region</a> |
+            <a href="debrecen_atlas_se.png">SE Region</a>
+        </div>
+    </div>
 
-    <h3>Map of the Locality of Hanton</h3>
-    <a href="http://tinyurl.com/hantmap">
-        <img class="smaller" src="hanton_map.png">
-    </a><br>
-    <a href="hanton_map.xcf">Source (GIMP XCF)</a> |
-    <a href="hanton_doors.txt">Door Coordinates</a>
+    <div class="tile">
+        <h3>Atlas of The Nether Regions</h3>
+        <a href="nether_atlas.png">
+            <img src="nether_atlas.png">
+        </a><br>
+        <div class="foot">
+            <a href="nether_atlas.xcf">Source (GIMP XCF)</a>
+        </div>
+    </div>
+
+    <div class="tile">
+        <h3>Map of the Locality of Hanton</h3>
+        <a href="http://tinyurl.com/hantmap">
+            <img src="hanton_map.png">
+        </a><br>
+        <div class="foot">
+            <a href="hanton_map.xcf">Source (GIMP XCF)</a> |
+            <a href="hanton_doors.txt">Door Coordinates</a>
+        </div>
+    </div>
 </body>
