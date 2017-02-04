@@ -29,10 +29,11 @@
  29. [D] Set the Horse
  30. [D] Anubis the Horse
  31. [C] Falconhoof the Horse
- 32. [B]*The Admiral of Damerus
- 33. [C]*Rusty the Guard of Hanton
- 34. [A]*Princess Leia Sanchez
- 35. [B]*Commander Henri Wallage of Damerus
+ 34. [A] Princess Leia Sanchez
+ 35. [B] Commander Henri Wallage of Damerus
+ 36. [a] Sir Rodrigo the Donkey of Damerus
+ 37. [a] Dame Jingle the Horse
+ 38. [D] White Thunder the Horse
 
 --- Key: ---
 * Burial Pending
@@ -43,4 +44,3 @@
 [C] Stone            - Honoured Citizen
 [D] Cobblestone      - Common Citizen
 [d] Moss Stone       - Ancient Citizen
-

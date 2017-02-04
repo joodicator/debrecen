@@ -1,0 +1,24 @@
+ID      Count      %  Type
+
+12     107658   43.8  Water
+1       53154   21.6  Grass Block, Slime Block
+7       50031   20.4  Leaves, Tall Grass, Mushrooms, Cactus, Sugar Cane, etc.
+2       19522    7.9  Sand, Sandstone, etc.
+8        6081    2.5  Snow, Diorite, etc.
+11       5007    2.0  Stone, Cobblestone, Andesite, Bedrock, Gravel, etc.
+15       3634    1.5  Orange Stained Clay, Pumpkin, etc.
+0         212    0.1  Unexplored, Glass, etc.
+5         190    0.1  Ice, Packed Ice
+10        116    0.0  Dirt, Granite, Farmland, Red Sand, etc.
+28         68    0.0  Red Stained Clay, Huge Red Mushroom, Bricks, etc.
+22         31    0.0  Light Gray Stained Clay, etc.
+13         30    0.0  Oak Wood, Huge Brown Mushroom, etc.
+26          9    0.0  Brown Stained Clay, Soul Sand, Dark Oak Wood, etc.
+18          8    0.0  Yellow Stained Clay, etc.
+4           8    0.0  Lava, TNT, Block of Redstone
+34          1    0.0  Podzol, Spruce Wood, etc.
+
+TOTAL: 245760  100.0
+
+Accurate as of 2016-09-08.
+More details: <http://minecraft.gamepedia.com/Map_item_format#Base_colors>.
