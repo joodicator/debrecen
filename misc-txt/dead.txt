@@ -1,0 +1,46 @@
+﻿  1. [d] Damaramu the Horse
+  2. [C] Charlie the Shepherd of Hanton
+  3. [C] Jeanne d'Arc the Hoe
+  4. [b] Unknown Tabby Cat Ambassador
+  5. [b] Unknown Tuxedo Cat Ambassador
+  6. [d] Rashid the Horse
+  7. [d] Almas the Horse
+  8. [d] Nail the Horse
+  9. [d] Tim the Farmer of Hanton
+ 10. [d] Tom the Farmer of Hanton
+ 11. [D] Attercob the Spider of Hanton
+ 12. [A] Prince Horatio Sanchez
+ 13. [C] Leah the Horse
+ 14. [C] King Itzal II the Chicken of Damerus
+ 15. [D] Two Unknown Lovers of Lovers' Pond, Hanton
+ 16. [D] Lazy Lob the Spider of Hanton
+ 17. [C] Chrysippus the Horse
+ 18. [C] Pestilence the Horse of the Apocalypse
+ 19. [D] Big Bob I the Spider of Hanton
+ 20. [D] Big Bob III the Spider of Hanton
+ 21. [D] Iago the Spider of Hanton
+ 22. [D] The Milkman the Horse
+ 23. [B] The General of Hanton
+ 24. [C] Horus the Horse
+ 25. [C] Cecil the Librarian of Ásylo (formerly of Damerus)
+ 26. [a] Lady Alyssa the Cleric of Ásylo (formerly of Newvale)
+ 27. [C] Jamella the Armourer of Ásylo (formerly Guard of Hanton)
+ 28. [D] Gauldoth the Librarian of Damerus
+ 29. [D] Set the Horse
+ 30. [D] Anubis the Horse
+ 31. [C] Falconhoof the Horse
+ 32. [B]*The Admiral of Damerus
+ 33. [C]*Rusty the Guard of Hanton
+ 34. [A]*Princess Leia Sanchez
+ 35. [B]*Commander Henri Wallage of Damerus
+
+--- Key: ---
+* Burial Pending
+[A] Chiseled Quartz  - Royal
+[a] Quartz           - Noble
+[B] Polished Diorite - Officer
+[b] Diorite          - Dignitary
+[C] Stone            - Honoured Citizen
+[D] Cobblestone      - Common Citizen
+[d] Moss Stone       - Ancient Citizen
+
