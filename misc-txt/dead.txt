@@ -34,6 +34,8 @@
  36. [a] Sir Rodrigo the Donkey of Damerus
  37. [a] Dame Jingle the Horse
  38. [D] White Thunder the Horse
+ 39. [D] Olive the Rabbit of Witch's Abode
+ 40. [D] Reginald the Man of Leisure of Hanton
 
 --- Key: ---
 * Burial Pending
