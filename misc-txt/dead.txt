@@ -36,6 +36,7 @@
  38. [D] White Thunder the Horse
  39. [D] Olive the Rabbit of Witch's Abode
  40. [D] Reginald the Man of Leisure of Hanton
+ 41. [D] Deed the Horse
 
 --- Key: ---
 * Burial Pending
