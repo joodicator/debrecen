@@ -37,6 +37,7 @@
  39. [D] Olive the Rabbit of Witch's Abode
  40. [D] Reginald the Man of Leisure of Hanton
  41. [D] Deed the Horse
+ 42. [D] Mercury the Horse
 
 --- Key: ---
 * Burial Pending
