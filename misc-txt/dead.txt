@@ -38,6 +38,9 @@
  40. [D] Reginald the Man of Leisure of Hanton
  41. [D] Deed the Horse
  42. [D] Mercury the Horse
+ 43.*[b] Mary Shelley the Turtle of Hanton
+ 44.*[D] Harrison the Murderer of Hanton
+ 45.*[b] Shakespeare the Turtle of Hanton
 
 --- Key: ---
 * Burial Pending
