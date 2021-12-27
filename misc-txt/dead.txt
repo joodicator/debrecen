@@ -43,7 +43,7 @@
  43. [b] Shakespeare / Ambassador of Turtles
  44. [b] Henrietta / Ambassador of Pandas
  45. [B] Knight Commander Ceolnoth / of Damerus
- 46. [C] Æðelræd / Faithful Steed
+ 46.*[C] Æðelræd / Faithful Steed
 
  P1. [a] Vaylon Kenadell / "Finally!" - The New York Times
  P2. [D] A PATRIOT WHO SAVED THE WORLD / 192X - 1964
