@@ -1,51 +1,56 @@
-﻿  1. [d] Damaramu the Horse
-  2. [C] Charlie the Shepherd of Hanton
-  3. [C] Jeanne d'Arc the Hoe
+﻿  1. [d] Damaramu / Faithful Steed
+  2. [C] Charlie / Shepherd of Hanton
+  3. [C] Jeanne d'Arc / Faithful Hoe
   4. [b] Unknown Tabby Cat Ambassador
   5. [b] Unknown Tuxedo Cat Ambassador
-  6. [d] Rashid the Horse
-  7. [d] Almas the Horse
-  8. [d] Nail the Horse
-  9. [d] Tim the Farmer of Hanton
- 10. [d] Tom the Farmer of Hanton
- 11. [D] Attercob the Spider of Hanton
+  6. [d] Rashid / Faithful Steed
+  7. [d] Almas / Faithful Steed
+  8. [d] Nail / Faithful Steed
+  9. [d] Tim / Farmer of Hanton
+ 10. [d] Tom / Farmer of Hanton
+ 11. [D] Attercop / Gentlespider of Hanton
  12. [A] Prince Horatio Sanchez
- 13. [C] Leah the Horse
- 14. [C] King Itzal II the Chicken of Damerus
- 15. [D] Two Unknown Lovers of Lovers' Pond, Hanton
- 16. [D] Lazy Lob the Spider of Hanton
- 17. [C] Chrysippus the Horse
- 18. [C] Pestilence the Horse of the Apocalypse
- 19. [D] Big Bob I the Spider of Hanton
- 20. [D] Big Bob III the Spider of Hanton
- 21. [D] Iago the Spider of Hanton
- 22. [D] The Milkman the Horse
- 23. [B] The General of Hanton
- 24. [C] Horus the Horse
- 25. [C] Cecil the Librarian of Ásylo (formerly of Damerus)
- 26. [a] Lady Alyssa the Cleric of Ásylo (formerly of Newvale)
- 27. [C] Jamella the Armourer of Ásylo (formerly Guard of Hanton)
- 28. [D] Gauldoth the Librarian of Damerus
- 29. [D] Set the Horse
- 30. [D] Anubis the Horse
- 31. [C] Falconhoof the Horse
- 34. [A] Princess Leia Sanchez
- 35. [B] Commander Henri Wallage of Damerus
- 36. [a] Sir Rodrigo the Donkey of Damerus
- 37. [a] Dame Jingle the Horse
- 38. [D] White Thunder the Horse
- 39. [D] Olive the Rabbit of Witch's Abode
- 40. [D] Reginald the Man of Leisure of Hanton
- 41. [D] Deed the Horse
- 42. [D] Mercury the Horse
- 43.*[b] Mary Shelley the Turtle of Hanton
- 44.*[D] Harrison the Murderer of Hanton
- 45.*[b] Shakespeare the Turtle of Hanton
- 46.*[b] Henrietta the Panda
- 47.*[B] Knight Commander Ceolnoth the Snow Golem of Damerus
+ 13. [C] Leah / Faithful Steed / Beloved Mother
+ 14. [C] King Itzal II / Stationmaster of Damerus
+ 15. [D] Unknown Lovers / of Lover's Pond in Hanton
+ 16. [D] Lazy Lob / Gentlespider of Hanton
+ 17. [C] Chrysippus / Faithful Steed
+ 18. [C] Pestilence / Faithful Steed
+ 19. [D] Big Bob I / Gentlespider of Hanton
+ 20. [D] Big Bob III / Gentlespider of Hanton
+ 21. [D] Iago / Gentlespider of Hanton
+ 22. [D] The Milkman / Faithful Steed
+ 23. [B] The General
+ 24. [C] Horus / Faithful Steed
+ 25. [C] Cecil / Librarian of Ásylo
+ 26. [a] Lady Alyssa / Cleric of Ásylo / and her son
+ 27. [C] Jamella / Armorsmith of Ásylo
+ 28. [D] Gauldoth / Librarian of Damerus
+ 29. [D] Set / Faithful Steed
+ 30. [D] Anubis / Faithful Steed
+ 31. [C] Falconhoof / Faithful Traveling Companion
+ 32. [A] Princess Leia Sanchez
+ 33. [B] Commander Henri Wallage / of Damerus
+ 34. [a] Sir Rodrigo / Noble Steed
+ 35. [a] Dame Jingle / "Jingle's here, at your service!"
+ 36. [D] White Thunder / Faithful Steed
+ 37. [D] Olive / Sweetheart till the end
+ 38. [D] Reginald / Valued Citizen of Hanton
+ 39. [D] Deed / Faithful Steed
+ 40. [D] Mercury / Faithful Steed
+ 41. [b] Mary Shelley / Beloved Turtle of Hanton
+ 42. [D] Harrison / Foul Murderer of Hanton
+ 43. [b] Shakespeare / Ambassador of Turtles
+ 44. [b] Henrietta / Ambassador of Pandas
+ 45. [B] Knight Commander Ceolnoth / of Damerus
+ 46. [C] Æðelræd / Faithful Steed
+
+ P1. [a] Vaylon Kenadell / "Finally!" - The New York Times
+ P2. [D] A PATRIOT WHO SAVED THE WORLD / 192X - 1964
 
 --- Key: ---
 * Burial Pending
+P Private burial; death not officially registered
 [A] Chiseled Quartz  - Royal
 [a] Quartz           - Noble
 [B] Polished Diorite - Officer
@@ -53,3 +58,29 @@
 [C] Stone            - Honoured Citizen
 [D] Cobblestone      - Common Citizen
 [d] Moss Stone       - Ancient Citizen
+
+
+--- Rattenberg Graveyard Layout: ---
+    ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::
+                                                          
+::                                                        
+      XXxx  ::  P2  46  45  44  43  42  41  40  39  38  P1
+::    xx                                                  
+                                                          
+::    ::        30  20  19  18  17  16  15  14  13  12  11
+                                                          
+::    ::    29                                            
+                       xxxxxxxxxxxxxxxxx
+::    ::    24          XXXXXXXXXXXXXX::::::::::::::::::::::
+                       xXXXXXXXXXXXXXX::::::::::::::::::::::
+::    ::    23          XXXXXXXXXXXXXX::::::::::::::::::::::
+                        xxxxxxxxxxxxxxxx                  
+::    ::    22                                            
+                                                          
+::    ::        21  10   9   8   7   6   5   4   3   2   1
+                                                          
+::    xx                                                  
+      XXxx  ::  37  36  35  34  33  32  31  28  27  26  25
+::                                                        
+                                                          
+    ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::
